@@ -47,8 +47,7 @@ export const ProjectsSection = () => {
         </h2>
         {/* Project Desc.. */}
         <p className="text-center text-muted-foreground mb-12 max-w-2xl mx-auto">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. At nesciunt
-          incidunt sed beatae vitae eligendi! Quas quasi nostrum labore optio!
+          A showcase of some of my favorite and most impactful projects. Each one highlights my skills in design, development, and real-world problem solving.
         </p>
 
         {/* 3 Cards */}
@@ -113,7 +112,7 @@ export const ProjectsSection = () => {
         {/* Github Button */}
         <div className="text-center mt-12">
           <a
-            href="#"
+            href="https://github.com/Subhranil02"
             target="_blank"
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
           >
